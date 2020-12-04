@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: black;
+}
+
+.navbar-style  .navbar-toggler-icon{
+    color: aliceblue;
+    
+}
+.navbar-style  .nav-link{
+    color: cornsilk;
+    
+}
+.navbar-style  .nav-link:hover{
+    color: yellow;
+}
+.navbar-style  .navbar-nav{
+   margin: 0px 20px;
+}
+/*padding for  navbar*/
+.nav-item{
+    padding: 0px 30px;
+}
